@@ -1,8 +1,42 @@
-# React + Vite
+## Installation
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Install project with npm
 
-Currently, two official plugins are available:
+```bash
+  cd client
+  npm i
+```
+Install Tailwind with Vite
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```bash
+  npm install -D tailwindcss postcss autoprefixer
+  npx tailwindcss init -p
+  npm i react-router-dom
+  npm i @reduxjs/toolkit react-redux
+  npm i redux-persist
+  npm i firebase
+```
+Now, run the frontend "client" using the cmd
+
+```bash
+npm run dev
+```
+Move on to root folder
+
+Run the command
+
+```bash
+npm init -y
+```
+
+And, install the following:
+
+```bash
+
+npm i express
+npm i mongoose
+npm i nodemon
+npm i dotenv
+npm i bcryptjs
+npm i jsonwebtoken
+```
