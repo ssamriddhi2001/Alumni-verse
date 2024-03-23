@@ -39,4 +39,5 @@ npm i nodemon
 npm i dotenv
 npm i bcryptjs
 npm i jsonwebtoken
+npm i cookie-parser
 ```
