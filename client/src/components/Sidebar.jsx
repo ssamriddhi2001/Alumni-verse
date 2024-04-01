@@ -1,7 +1,11 @@
 import React, { useState } from 'react';
 import { TfiMenu } from "react-icons/tfi";
 import { RxCross2 } from "react-icons/rx";
-import { BsCalendar2Event } from "react-icons/bs";
+import { RiCalendarEventFill } from "react-icons/ri";
+import { TbDeviceDesktopAnalytics } from "react-icons/tb";
+import { IoMdContacts } from "react-icons/io";
+import { GiMicrophone } from "react-icons/gi";
+import { MdWorkHistory } from "react-icons/md";
 import { Link } from 'react-router-dom';
 
 
@@ -9,27 +13,27 @@ const Sidebar = () => {
 
     const navItems = [
         {
-            icons: <BsCalendar2Event />,
+            icons: <RiCalendarEventFill />,
             label: "Current events",
             link: "/current-events"
         },
         {
-            icons: <BsCalendar2Event />,
+            icons: <TbDeviceDesktopAnalytics />,
             label: "Tech Trends",
             link: "/tech-trends"
         },
         {
-            icons: <BsCalendar2Event />,
+            icons: <GiMicrophone />,
             label: "Voice of Alumni",
             link: "/voice-of-alumni"
         },
         {
-            icons: <BsCalendar2Event />,
+            icons: <IoMdContacts />,
             label: "Alumni Connect",
             link: "/alumni-connect"
         },
         {
-            icons: <BsCalendar2Event />,
+            icons: <MdWorkHistory />,
             label: "Share Opportunity",
             link: "/share-opportunity"
         },

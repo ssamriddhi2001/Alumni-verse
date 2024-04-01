@@ -1,7 +1,9 @@
 import React from 'react'
 
-export default function TechTrends() {
+export default function () {
     return (
-        <div>TechTrends</div>
+        <div>
+            <h1 className='text-3xl font-semibold text-center my-7'>Technology Trends</h1>
+        </div>
     )
 }

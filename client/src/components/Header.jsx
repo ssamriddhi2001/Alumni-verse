@@ -11,17 +11,17 @@ export default function Header() {
                     <img width="180" src={logoFull} alt="logo_full" />
                 </Link>
                 <ul className='flex gap-4'>
-                    <Link to='/'>
-                        <li>Home</li>
+                    <Link to='/' className=''>
+                        <li className='link' >Home</li>
                     </Link>
                     <Link to='/about'>
-                        <li>About</li>
+                        <li className='link' >About</li>
                     </Link>
                     <Link to='/profile'>
                         {currentUser ? (
                             <img src={currentUser.profilePicture} alt='profile' className='h-7 w-7 rounded-full object-cover' />
                         ) : (
-                            <li>Sign In</li>
+                            <li className='link' >Sign In</li>
                         )}
                     </Link>
                 </ul>
