@@ -107,7 +107,7 @@ export default function Profile() {
     }
   };
   return (
-    <div className='grid grid-cols-2 sm:grid-cols-12 '>
+    <div className='grid grid-cols-2 sm:grid-cols-12 mb-10 '>
       <div className='sm:col-span-2'>
         <Sidebar />
       </div>

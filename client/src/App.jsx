@@ -11,6 +11,7 @@ import TechTrends from './pages/TechTrends';
 import VoiceOfAlumni from './pages/VoiceOfAlumni';
 import AlumniConnect from './pages/AlumniConnect';
 import ShareOpportunity from './pages/ShareOpportunity';
+import Footer from './components/Footer';
 
 export default function App() {
   return (
@@ -31,6 +32,7 @@ export default function App() {
           <Route path='/profile' element={<Profile />} />
         </Route>
       </Routes>
+      <Footer />
     </BrowserRouter>
   );
 }
