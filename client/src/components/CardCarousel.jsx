@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import { Link } from "react-router-dom";
-import Glide from "@glidejs/glide"
+import Glide from "@glidejs/glide";
 import { FaLinkedin, FaWhatsappSquare } from "react-icons/fa";
 // import {  } from "react-icons/fa";
 
@@ -102,7 +102,7 @@ export default function CardCarousel() {
                                     <div className="sm:flex sm:justify-between sm:gap-4">
                                         <div>
                                             <h3 className="text-lg font-bold text-gray-900 sm:text-xl">
-                                                Data Engineer at Cognizant
+                                                Salesforce Developer at Cognizant
                                             </h3>
 
                                             <p className="mt-1 text-xs font-medium text-gray-600">Pratik Vaibhav</p>
@@ -119,7 +119,7 @@ export default function CardCarousel() {
 
                                     <div className="mt-4">
                                         <p className="text-pretty text-sm text-gray-500">
-                                            Batch 2022 passout of IT department
+                                            Batch 2023 passout of IT department
                                         </p>
                                     </div>
 
@@ -151,7 +151,7 @@ export default function CardCarousel() {
                                     <div className="sm:flex sm:justify-between sm:gap-4">
                                         <div>
                                             <h3 className="text-lg font-bold text-gray-900 sm:text-xl">
-                                                Data Engineer at Cognizant
+                                                Software Engineer at LTIMindtree
                                             </h3>
 
                                             <p className="mt-1 text-xs font-medium text-gray-600">Annapurna Sharma</p>
@@ -168,13 +168,13 @@ export default function CardCarousel() {
 
                                     <div className="mt-4">
                                         <p className="text-pretty text-sm text-gray-500">
-                                            Batch 2022 passout of IT department
+                                            Batch 2023 passout of IT department
                                         </p>
                                     </div>
 
                                     <dl className="mt-6 flex gap-4 sm:gap-6 text-center items-center justify-center ">
                                         <div className="flex text-xl">
-                                            <Link className="https://www.linkedin.com/in/annapurna-sharma-574455221/" >
+                                            <Link to="https://www.linkedin.com/in/annapurna-sharma-574455221/" >
                                                 <FaLinkedin />
                                             </Link>
                                         </div>
@@ -200,7 +200,7 @@ export default function CardCarousel() {
                                     <div className="sm:flex sm:justify-between sm:gap-4">
                                         <div>
                                             <h3 className="text-lg font-bold text-gray-900 sm:text-xl">
-                                                Data Engineer at Cognizant
+                                                Specialist Programmer @Infosys
                                             </h3>
 
                                             <p className="mt-1 text-xs font-medium text-gray-600">Janhavi Ojha</p>
@@ -249,7 +249,7 @@ export default function CardCarousel() {
                                     <div className="sm:flex sm:justify-between sm:gap-4">
                                         <div>
                                             <h3 className="text-lg font-bold text-gray-900 sm:text-xl">
-                                                Data Engineer at Cognizant
+                                                Assistant System Engineer at TCS
                                             </h3>
 
                                             <p className="mt-1 text-xs font-medium text-gray-600">Samridhi Kumari</p>
@@ -298,7 +298,7 @@ export default function CardCarousel() {
                                     <div className="sm:flex sm:justify-between sm:gap-4">
                                         <div>
                                             <h3 className="text-lg font-bold text-gray-900 sm:text-xl">
-                                                Data Engineer at Cognizant
+                                                Software Developer @ Wipro
                                             </h3>
 
                                             <p className="mt-1 text-xs font-medium text-gray-600">Sweta Shekha</p>
@@ -347,7 +347,7 @@ export default function CardCarousel() {
                                     <div className="sm:flex sm:justify-between sm:gap-4">
                                         <div>
                                             <h3 className="text-lg font-bold text-gray-900 sm:text-xl">
-                                                Data Engineer at Cognizant
+                                                Digital Specialist Engineer @Infosys
                                             </h3>
 
                                             <p className="mt-1 text-xs font-medium text-gray-600">Debdip Sarkar</p>
@@ -396,7 +396,7 @@ export default function CardCarousel() {
                                     <div className="sm:flex sm:justify-between sm:gap-4">
                                         <div>
                                             <h3 className="text-lg font-bold text-gray-900 sm:text-xl">
-                                                Data Engineer at Cognizant
+                                                Software Engineer at Cognizant
                                             </h3>
 
                                             <p className="mt-1 text-xs font-medium text-gray-600">Shraddha Shaw</p>
@@ -413,7 +413,7 @@ export default function CardCarousel() {
 
                                     <div className="mt-4">
                                         <p className="text-pretty text-sm text-gray-500">
-                                            Batch 2022 passout of IT department
+                                            Batch 2023 passout of IT department
                                         </p>
                                     </div>
 
@@ -446,7 +446,7 @@ export default function CardCarousel() {
                                     <div className="sm:flex sm:justify-between sm:gap-4">
                                         <div>
                                             <h3 className="text-lg font-bold text-gray-900 sm:text-xl">
-                                                Data Engineer at Cognizant
+                                                Software Engineer @ K12 Techno Services Pvt. Ltd.
                                             </h3>
 
                                             <p className="mt-1 text-xs font-medium text-gray-600">Rahul Kumar Ranjan</p>
@@ -463,7 +463,7 @@ export default function CardCarousel() {
 
                                     <div className="mt-4">
                                         <p className="text-pretty text-sm text-gray-500">
-                                            Batch 2022 passout of IT department
+                                            Batch 2023 passout of IT department
                                         </p>
                                     </div>
 
@@ -495,7 +495,7 @@ export default function CardCarousel() {
                                     <div className="sm:flex sm:justify-between sm:gap-4">
                                         <div>
                                             <h3 className="text-lg font-bold text-gray-900 sm:text-xl">
-                                                Data Engineer at Cognizant
+                                                Salesforce Developer at Cognizant
                                             </h3>
 
                                             <p className="mt-1 text-xs font-medium text-gray-600">Vishal Nayek</p>
@@ -504,7 +504,7 @@ export default function CardCarousel() {
                                         <div className="hidden sm:block sm:shrink-0">
                                             <img
                                                 alt="img"
-                                                src="https://media.licdn.com/dms/image/D4D35AQHwJC_JbRiVrQ/profile-framedphoto-shrink_800_800/0/1677311272831?e=1713276000&v=beta&t=ow4M68KbAdVZgTAp1rbWAAJz0f9TO4UreVul3ehbxd0"
+                                                src="https://media.licdn.com/dms/image/D4D35AQHwJC_JbRiVrQ/profile-framedphoto-shrink_400_400/0/1677311272831?e=1714395600&v=beta&t=IYPCFTjyzguo6pagvx6Z7ylYp_Yeq6Zm4zqjCsOu4sA"
                                                 className="size-16 rounded-lg object-cover shadow-sm"
                                             />
                                         </div>
@@ -512,14 +512,14 @@ export default function CardCarousel() {
 
                                     <div className="mt-4">
                                         <p className="text-pretty text-sm text-gray-500">
-                                            Batch 2022 passout of IT department
+                                            Batch 2023 passout of IT department
                                         </p>
                                     </div>
 
                                     <dl className="mt-6 flex gap-4 sm:gap-6 text-center items-center justify-center ">
                                         <div className="flex text-xl">
                                             <Link to="https://www.linkedin.com/in/vishal-nayek-41ba18190/" >
-                                            <FaLinkedin />
+                                                <FaLinkedin />
                                             </Link>
                                         </div>
 

@@ -36,9 +36,9 @@ export default function SignUp() {
         }
     };
     return (
-        <div className='p-3 max-w-lg mx-auto'>
+        <div className='p-3 max-w-lg mx-auto my-7'>
             <h1 className='text-3xl text-center font-semibold my-7'>Sign Up</h1>
-            <form onSubmit={handleSubmit} className='flex flex-col gap-4'>
+            <form onSubmit={handleSubmit} className='flex flex-col gap-6'>
                 <input
                     type='text'
                     placeholder='Username'
@@ -68,7 +68,7 @@ export default function SignUp() {
                 </button>
                 <OAuth />
             </form>
-            <div className='flex gap-2 mt-5'>
+            <div className='flex gap-2 mt-6 mb-16 '>
                 <p>Have an account?</p>
                 <Link to='/sign-in'>
                     <span className='text-blue-500'>Sign in</span>

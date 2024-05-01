@@ -39,7 +39,7 @@ export default function CurrentEvents() {
 
                 <div className="max-w-lg bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
                     <Link to="/">
-                        <img className="rounded-t-lg w-full object-fill" src="https://scontent.fccu4-3.fna.fbcdn.net/v/t39.30808-6/433314083_885035906966084_7366557022753243456_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=97RhJQbQN8UAb4VbyZF&_nc_ht=scontent.fccu4-3.fna&oh=00_AfAz8vIsxdWXh9KOS2oYQccj0Yo5d0kln1my2uyL0TRV4g&oe=661B1896" alt="img" />
+                        <img className="rounded-t-lg w-full object-fill" src="https://scontent.fccu4-3.fna.fbcdn.net/v/t39.30808-6/433314083_885035906966084_7366557022753243456_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=yS_uH-1LvRYAb7wJHaQ&_nc_ht=scontent.fccu4-3.fna&oh=00_AfC0Ai5uYlJ-MLl6dUhun28GhcfkOp5eLUIxUgt8D-gBeQ&oe=662C3C16" alt="img" />
                     </Link>
                     <div className="p-5">
                         <Link to="/">
@@ -76,7 +76,7 @@ export default function CurrentEvents() {
             <div className='flex justify-center my-8 gap-6' >
                 <div className="max-w-lg bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
                     <Link to="/">
-                        <img className="rounded-t-lg w-full" src="https://scontent.fccu4-3.fna.fbcdn.net/v/t39.30808-6/346858138_2906005876202164_9202813326243621022_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Hksko8VQR8AAb6RlF56&_nc_oc=AdhKUUaiZqwz0PHuMsI4mq7WLgqyMvGTimxPd8qRLiYRz5n8MiyJ_L-Mf9UWxsw9Gt0&_nc_ht=scontent.fccu4-3.fna&oh=00_AfBOXizZ7NBlwbdcm0K4FVNqnNCvEKiffdMhxCw1pSHE-A&oe=661AFFF4" alt="" />
+                        <img className="rounded-t-lg w-full" src="https://scontent.fccu4-3.fna.fbcdn.net/v/t39.30808-6/346858138_2906005876202164_9202813326243621022_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=PFDWcEWy4g8Ab6p_RMU&_nc_oc=AdhApy_yPnoIUshxV9NrIAc_1qhLkaiMC8G4jHzSaYSjtJawd_K4dIGnakd_mvmAUaQ&_nc_ht=scontent.fccu4-3.fna&oh=00_AfB5gJ29weYNEYl5bOxbzi9kvaLnTN48MddwsMy5nV5j4A&oe=662C2374" alt="" />
                     </Link>
                     <div className="p-5">
                         <Link to="/">
@@ -90,7 +90,7 @@ export default function CurrentEvents() {
                 </div>
                 <div className="max-w-lg bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
                     <Link to="/">
-                        <img className="rounded-t-lg w-full" src="https://scontent.fccu4-3.fna.fbcdn.net/v/t39.30808-6/277463085_1538069726579941_1258381155733053157_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=CDIdHdbDJEAAb7H0jw5&_nc_oc=AdjrXwXd70-3ymIlkrjiWrXyRHKqpnm1LbdV6aXWcr9gzI_w5gFVXy6XDZtKGt0Arfc&_nc_ht=scontent.fccu4-3.fna&oh=00_AfD9frxPCnESh4vwHEOy1uFoQetbywnpLykt3Xt6csvDqg&oe=661AF061" alt="" />
+                        <img className="rounded-t-lg w-full" src="https://scontent.fccu4-3.fna.fbcdn.net/v/t39.30808-6/277463085_1538069726579941_1258381155733053157_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=WqIJrU_9Qy4Ab5vt1z6&_nc_oc=AdhZRg4W5sGw89pJte8X-AkwsnRpQrKAORVqILnQlClvBxJDt74XJcg34yPftakTz4M&_nc_ht=scontent.fccu4-3.fna&oh=00_AfAnkOAtnNvhSGrq5u_KNmm2q5yGh3qvBlggr5VROfzRmg&oe=662C13E1" alt="" />
                     </Link>
                     <div className="p-5">
                         <Link to="/">
